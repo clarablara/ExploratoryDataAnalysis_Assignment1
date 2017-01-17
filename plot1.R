@@ -15,7 +15,7 @@ plot1 <- function() {
     cnames <- unlist(strsplit(read_head, ";"))
     colnames(data) <- cnames
     
-    ## Plot histogram of "Global_active_power" variable
+    ## Create plot
     hist(data$Global_active_power, 
             breaks = 12,
             freq = TRUE,
