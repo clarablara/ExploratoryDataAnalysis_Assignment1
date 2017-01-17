@@ -1,8 +1,12 @@
-# README: Exploratory Data Analysis - Assignment 1
+# README
+
+### Exploratory Data Analysis - Assignment 1
 
 -----
 
-This repo contains the following eight (8) files:
+This repo contains the following nine (9) files:
+
+- `README.md` - this README file
 
 - `plot1.png` - PNG graphic of Plot 1
 
